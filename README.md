@@ -48,5 +48,5 @@ The merchant would pay a 7% subsidy for transactions below £750. Transactions o
 - Provide unit tests. We use [Jest](https://jestjs.io/) but feel free to use whatever you want.
 
 Bonus:
-
+- Use styled-components
 - Add the pie chart graphic depicting the subsidy proportionally to the total.
